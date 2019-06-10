@@ -1,0 +1,13 @@
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\bin\Debug\A031_MatchingGame.exe.config
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\bin\Debug\A031_MatchingGame.exe
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\bin\Debug\A031_MatchingGame.pdb
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\MainWindow.g.cs
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\App.g.cs
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame_MarkupCompile.cache
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame_MarkupCompile.lref
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\MainWindow.baml
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame.g.resources
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame.Properties.Resources.resources
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame.csproj.GenerateResource.Cache
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame.exe
+C:\Users\konynag\Desktop\의료IT 유채연\18615032_B 과제\18615032_B\18615032_B\A031_MatchingGame\obj\Debug\A031_MatchingGame.pdb
